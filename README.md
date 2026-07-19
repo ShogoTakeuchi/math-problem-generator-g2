@@ -2,6 +2,8 @@
 
 小学2年生向けの計算練習Webアプリです。1コース10問で、次の4種類を練習できます。
 
+**公開サイト:** [https://math-problem-generator-g2.shogo-159.workers.dev/](https://math-problem-generator-g2.shogo-159.workers.dev/)
+
 - 2桁どうし・答えが2桁の、繰り上がりがある足し算
 - 2桁どうし・答えが正の数の、繰り下がりがある引き算
 - 1〜9の九九
